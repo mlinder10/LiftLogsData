@@ -1,0 +1,11 @@
+To add your changes to github:
+
+1. <git pull> to make sure that you have my latest changes
+2. <git add .> to stage all of your changes
+3. <git commit -m "your message"> to add your changes to what will be uploaded
+4. <git push> to upload your changes
+
+To get my changes from github:
+
+1. <git pull> 
+
