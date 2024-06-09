@@ -1886,12 +1886,12 @@
   },
   {
     "id": "113",
-    "name": "V-Bar Row",
+    "name": "V-Bar Lat Pulldown",
     "description": "",
     "directions": [],
     "cues": [],
-    "image_contracted": "v-bar-row-contracted",
-    "image_extended": "v-bar-row-extended",
+    "image_contracted": "v-bar-lat-pulldown-contracted",
+    "image_extended": "v-bar-lat-pulldown-extended",
     "video_id": "gJWpu7a-jiU",
     "body_part": "back",
     "primary_muscle_group": "lats",
@@ -1941,7 +1941,7 @@
       "forearms"
     ],
     "exercise_type": "compound",
-    "equipment_type": "deadlift",
+    "equipment_type": "barbell",
     "general_best_rep_range": { "low": 2, "high": 8 }
   },
   {
